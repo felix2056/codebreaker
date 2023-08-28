@@ -1,0 +1,937 @@
+{
+    "items": {
+       "wordpress": {
+         "onovo": {
+           "title": "Onovo",
+           "preview": "https://bslthemes.com/wp-content/uploads/2023/05/ThemePreview.png",
+           "links":{
+             "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/item/onovo-creative-portfolio-agency-wordpress-theme/45878490",
+             "buy": "https://1.envato.market/Y9dmjO",
+             "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/item/onovo-creative-portfolio-agency-wordpress-theme/45878490/support",
+             "doc": "https://bslthemes.gitbook.io/onovo-wp-doc/",
+             "changelog": "https://bslthemes.com/product/item/onovo-creative-portfolio-agency-wordpress-theme/#item-description__changelog"
+           },
+           "demo": 0,
+           "tags": "portfolio,digital,agency,creative"
+         },
+         "lesya": {
+            "title": "Lesya",
+            "preview": "https://bslthemes.com/wp-content/uploads/2023/05/le_wp_preview.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/lesya-beauty-spa-wordpress-theme/45658025",
+              "buy": "https://1.envato.market/m54AZ7",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/lesya-beauty-spa-wordpress-theme/45658025/support",
+              "doc": "https://bslthemes.gitbook.io/lesya-wp-doc/",
+              "changelog": "https://bslthemes.com/product/lesya-beauty-spa-wordpress-theme/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "beauty,spa,health,booking"
+          },
+          "samantha": {
+           "title": "Samantha",
+           "preview": "https://bslthemes.com/wp-content/uploads/2023/03/screenshot.png",
+           "links":{
+             "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/samantha-fitness-wordpress-theme/full_screen_preview/44665518",
+             "buy": "https://1.envato.market/LXP9MV",
+             "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/samantha-fitness-wordpress-theme/44665518/support",
+             "doc": "https://bslthemes.gitbook.io/samantha-wp-doc/",
+             "changelog": "https://bslthemes.com/product/samantha-fitness-wordpress-theme/#item-description__changelog"
+           },
+           "demo": 0,
+           "tags": "trainer,fitness,gym,health"
+          },
+          "builty": {
+             "title": "Builty",
+             "preview": "https://bslthemes.com/wp-content/uploads/2022/12/preview.png",
+             "links":{
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/builty-construction-wordpress-theme/full_screen_preview/41942643",
+               "buy": "https://1.envato.market/0JW4VN",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/builty-construction-wordpress-theme/41942643/support",
+               "doc": "https://bslthemes.gitbook.io/builty-wp-doc/",
+               "changelog": "https://bslthemes.com/product/builty-construction-wordpress-theme/#item-description__changelog"
+             },
+             "demo": 0,
+             "tags": "industry,architecture,bulding,construction"
+          },
+          "luique": {
+            "title": "Luique",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/11/preview.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://preview.themeforest.net/item/luique-one-page-resume-wordpress-theme/full_screen_preview/41227879",
+              "buy": "https://1.envato.market/Ke1q1N",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/luique-one-page-resume-wordpress-theme/41227879/support",
+              "doc": "https://bslthemes.gitbook.io/luique-wp-doc/",
+              "changelog": "https://bslthemes.com/product/luique-personal-portfolio-wordpress-theme/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal"
+          },
+          "starbelly": {
+             "title": "Starbelly",
+             "preview": "https://bslthemes.com/wp-content/uploads/2022/08/preview.png",
+             "links":{
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/starbelly-restaurant-wordpress-theme/full_screen_preview/39126188",
+               "buy": "https://1.envato.market/6b69dG",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/starbelly-restaurant-wordpress-theme/39126188/support",
+               "doc": "https://bslthemes.gitbook.io/starbelly-wp-doc/",
+               "changelog": "https://bslthemes.com/product/starbelly-restaurant-wordpress-theme/#item-description__changelog"
+             },
+             "demo": 0,
+             "tags": "restaurant,cafe"
+          },
+          "orabel": {
+             "title": "Orabel",
+             "preview": "https://bslthemes.com/wp-content/uploads/2022/06/preview.png",
+             "links":{
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/orabel-photography-wordpress-theme/full_screen_preview/37854688",
+               "buy": "https://1.envato.market/3PrN9y",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/orabel-photography-wordpress-theme/37854688/support",
+               "doc": "https://bslthemes.gitbook.io/orabel-wp-doc/",
+               "changelog": "https://bslthemes.com/product/orabel-photography-wordpress-theme/#item-description__changelog"
+             },
+             "demo": 0,
+             "tags": "photography,portfolio,creative"
+          },
+          "ryancv": {
+             "title": "RyanCV",
+             "preview": "https://bslthemes.com/wp-content/uploads/2022/04/01_preview.jpg",
+             "links": {
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ryancv-vcard-resume-wordpress-theme/full_screen_preview/22890097",
+               "buy": "https://1.envato.market/e241D",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ryancv-vcard-resume-wordpress-theme/22890097/support",
+               "doc": "https://bslthemes.gitbook.io/ryancv-wp-doc/",
+               "changelog": "https://bslthemes.com/product/ryancv-cv-resume-wordpress-theme/#item-description__changelog"
+             },
+             "demo": {
+               "digital-2": {
+                 "url": "https://ryancv.bslthemes.com/digital-2/",
+                 "title": "Digital-2",
+                 "preview": "https://bslthemes.com/ryancv/landing/wp-content/uploads/2023/06/preview-1.jpg"
+               },
+               "cyberpunk": {
+                 "url": "https://ryancv.bslthemes.com/cyberpunk/",
+                 "title": "Cyberpunk",
+                 "preview": "https://bslthemes.com/ryancv/landing/wp-content/uploads/2023/06/preview.jpg"
+               },
+               "default": {
+                 "url": "https://ryancv.bslthemes.com/",
+                 "title": "Default",
+                 "preview": "https://bslthemes.com/ryancv/landing/wp-content/uploads/2022/07/demo2.jpg"
+               },
+               "digital": {
+                 "url": "https://ryancv.bslthemes.com/digital/",
+                 "title": "Digital",
+                 "preview": "https://bslthemes.com/ryancv/landing/wp-content/uploads/2023/03/preview-d.jpg"
+               },
+               "system": {
+                 "url": "https://ryancv.bslthemes.com/system/",
+                 "title": "System Engineer",
+                 "preview": "https://bslthemes.com/ryancv/landing/wp-content/uploads/2022/07/demo4.jpg"
+               },
+               "developer": {
+                 "url": "https://ryancv.bslthemes.com/developer/",
+                 "title": "Developer",
+                 "preview": "https://bslthemes.com/ryancv/landing/wp-content/uploads/2022/07/demo1.jpg"
+               },
+               "designer": {
+                 "url": "https://ryancv.bslthemes.com/designer/",
+                 "title": "Designer",
+                 "preview": "https://bslthemes.com/ryancv/landing/wp-content/uploads/2022/07/demo3.jpg"
+               },
+               "writer": {
+                 "url": "https://ryancv.bslthemes.com/writer/",
+                 "title": "Copywriter",
+                 "preview": "https://bslthemes.com/ryancv/landing/wp-content/uploads/2022/07/demo5.jpg"
+               },
+               "business": {
+                 "url": "https://ryancv.bslthemes.com/business/",
+                 "title": "Business Consultant",
+                 "preview": "https://bslthemes.com/ryancv/landing/wp-content/uploads/2022/07/demo6.jpg"
+               },
+               "marketing": {
+                 "url": "https://ryancv.bslthemes.com/marketing/",
+                 "title": "Marketing Manager",
+                 "preview": "https://bslthemes.com/ryancv/landing/wp-content/uploads/2022/07/demo7.jpg"
+               },
+               "streamer": {
+                 "url": "https://ryancv.bslthemes.com/streamer/",
+                 "title": "Content Creator",
+                 "preview": "https://bslthemes.com/ryancv/landing/wp-content/uploads/2022/07/demo8.jpg"
+               },
+               "crypto": {
+                 "url": "https://ryancv.bslthemes.com/crypto/",
+                 "title": "Cryptocurrency",
+                 "preview": "https://bslthemes.com/ryancv/landing/wp-content/uploads/2022/07/demo9.jpg"
+               },
+               "lawyer": {
+                 "url": "https://ryancv.bslthemes.com/lawyer/",
+                 "title": "Lawyer",
+                 "preview": "https://bslthemes.com/ryancv/landing/wp-content/uploads/2022/07/demo10.jpg"
+               },
+               "lawyer": {
+                 "url": "https://ryancv.bslthemes.com/dark/",
+                 "title": "Dark Classic",
+                 "preview": "https://bslthemes.com/ryancv/landing/wp-content/uploads/2022/07/demo11.jpg"
+               }
+             },
+             "tags": "resume,cv,personal"
+          },
+          "trueman": {
+             "title": "Trueman",
+             "preview": "https://bslthemes.com/wp-content/uploads/2022/05/preview-2.png",
+             "links": {
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/trueman-cv-resume-wordpress-theme/full_screen_preview/37364785",
+               "buy": "https://1.envato.market/2r0eYQ",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/trueman-cv-resume-wordpress-theme/37364785/support",
+               "doc": "https://bslthemes.gitbook.io/trueman-wp-doc/",
+               "changelog": "https://bslthemes.com/product/trueman-cv-resume-wordpress-theme/#item-description__changelog"
+             },
+             "demo": 0,
+             "tags": "resume,cv,personal"
+          },
+          "kaffen": {
+             "title": "Kaffen",
+             "preview": "https://bslthemes.com/wp-content/uploads/2022/05/preview.png",
+             "links":{
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/kaffen-cafe-restaurant-wordpress-theme/full_screen_preview/37178428",
+               "buy": "https://1.envato.market/15kdAd",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/kaffen-cafe-restaurant-wordpress-theme/37178428/support",
+               "doc": "https://bslthemes.gitbook.io/kaffen-wp-doc/",
+               "changelog": "https://bslthemes.com/product/kaffen-restaurant-wordpress-theme/#item-description__changelog"
+             },
+             "demo": 0,
+             "tags": "restaurant,cafe"
+          },
+          "kinsley": {
+             "title": "Kinsley",
+             "preview": "https://bslthemes.com/wp-content/uploads/2021/06/kins_preview3.png",
+             "links":{
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/kinsley-hotel-wordpress-theme/full_screen_preview/35503579",
+               "buy": "https://1.envato.market/LP55VZ",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/kinsley-hotel-wordpress-theme/35503579/support",
+               "doc": "https://bslthemes.gitbook.io/kinsley-wp-doc/",
+               "changelog": "https://bslthemes.com/product/kinsley-hotel-booking-wordpress-theme/#item-description__changelog"
+             },
+             "demo": {
+               "hotel": {
+                 "url": "https://kinsley.bslthemes.com/",
+                 "title": "Hotel",
+                 "preview": "https://bslthemes.com/kinsley/landing/wp-content/uploads/2022/08/demo1.jpg"
+               },
+               "bnb": {
+                 "url": "https://kinsley.bslthemes.com/bnb/",
+                 "title": "BnB",
+                 "preview": "https://bslthemes.com/kinsley/landing/wp-content/uploads/2022/08/demo21.jpg"
+               },
+               "luxury": {
+                 "url": "https://kinsley.bslthemes.com/luxury/",
+                 "title": "Luxury",
+                 "preview": "https://bslthemes.com/kinsley/landing/wp-content/uploads/2022/08/demo3.jpg"
+               },
+               "rtl": {
+                 "url": "https://kinsley.bslthemes.com/rtl/ar/",
+                 "title": "RTL",
+                 "preview": "https://bslthemes.com/kinsley/landing/wp-content/uploads/2022/01/demo22.jpg"
+               }
+             },
+             "tags": "hotel,resort,travel"
+          },
+          "ober": {
+             "title": "Ober",
+             "preview": "https://bslthemes.com/wp-content/uploads/2021/06/preview.png",
+             "links":{
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ober-one-page-resume-wordpress-theme/full_screen_preview/35382382",
+               "buy": "https://1.envato.market/RyLbzv",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ober-one-page-resume-wordpress-theme/35382382/support",
+               "doc": "https://bslthemes.gitbook.io/ober-wp-doc/",
+               "changelog": "https://bslthemes.com/product/ober-cv-resume-wordpress-theme/#item-description__changelog"
+             },
+             "demo": 0,
+             "tags": "resume,cv,personal"
+          },
+          "minterio": {
+             "title": "Minterio",
+             "preview": "https://bslthemes.com/wp-content/uploads/2021/06/mint_preview.png",
+             "links":{
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/minterio-interior-design-wordpress-theme/full_screen_preview/34326502",
+               "buy": "https://1.envato.market/AoBV0K",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/minterio-interior-design-wordpress-theme/34326502/support",
+               "doc": "https://bslthemes.gitbook.io/minterio-wp-doc/",
+               "changelog": "https://bslthemes.com/product/minterio-interior-design-wordpress-theme/#item-description__changelog"
+             },
+             "demo": 0,
+             "tags": "architecture,interior,furniture,decor"
+          },
+          "larson": {
+             "title": "Larson",
+             "preview": "https://bslthemes.com/wp-content/uploads/2021/06/l_preview.png",
+             "links": {
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/larson-architecture-wordpress-theme/full_screen_preview/33394203",
+               "buy": "https://1.envato.market/b3Dxkv",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/larson-architecture-wordpress-theme/33394203/support",
+               "doc": "https://bslthemes.gitbook.io/larson-wp-doc/",
+               "changelog": "https://bslthemes.com/product/larson-architecture-wordpress-theme/#item-description__changelog"
+             },
+             "demo": {
+               "light": {
+                 "url": "https://larson.bslthemes.com/",
+                 "title": "Light",
+                 "preview": "https://bslthemes.com/larson/intro/img/picture/intro/1/1@2x.jpg"
+               },
+               "dark": {
+                 "url": "https://larson.bslthemes.com/dark/",
+                 "title": "Dark",
+                 "preview": "https://bslthemes.com/larson/intro/img/picture/intro/1/4@2x.jpg"
+               }
+             },
+             "tags": "architecture,interior,construction"
+          },
+          "tastyc": {
+             "title": "Tastyc",
+             "preview": "https://bslthemes.com/wp-content/uploads/2022/04/ts_img_preview3.png",
+             "links": {
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/tastyc-restaurant-wordpress-theme/full_screen_preview/32386289",
+               "buy": "https://1.envato.market/BXKVZ9",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/tastyc-restaurant-wordpress-theme/32386289/support",
+               "doc": "https://bslthemes.gitbook.io/tastyc-wp-doc/",
+               "changelog": "https://bslthemes.com/product/tastyc-restaurant-wordpress-theme/#item-description__changelog"
+             },
+             "demo": {
+               "restaurant": {
+                 "url": "https://tastyc.bslthemes.com/",
+                 "title": "Restaurants / Cafes",
+                 "preview": "https://bslthemes.com/tastyc/landing/wp-content/uploads/2022/08/tdemo1-950x558.jpg"
+               },
+               "seafood": {
+                 "url": "https://tastyc.bslthemes.com/seafood/",
+                 "title": "Seafood",
+                 "preview": "https://bslthemes.com/tastyc/landing/wp-content/uploads/2022/08/tdemo3-950x558.jpg"
+               },
+               "coffee": {
+                 "url": "https://tastyc.bslthemes.com/coffee/",
+                 "title": "Coffe Shop",
+                 "preview": "https://bslthemes.com/tastyc/landing/wp-content/uploads/2022/08/tdemo2-950x558.jpg"
+               },
+               "bar-pub": {
+                 "url": "https://tastyc.bslthemes.com/bar-pub/",
+                 "title": "Bar & Pub",
+                 "preview": "https://bslthemes.com/tastyc/landing/wp-content/uploads/2022/08/tdemo4-950x558.jpg"
+               }
+             },
+             "tags": "restaurant,cafe"
+          },
+          "oblo": {
+             "title": "Oblo",
+             "preview": "https://bslthemes.com/wp-content/uploads/2022/04/o_img_preview3.png",
+             "links": {
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/oblo-portfolio-showcase-wordpress-theme/full_screen_preview/31478022",
+               "buy": "https://1.envato.market/VyZE9M",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/oblo-portfolio-showcase-wordpress-theme/31478022/support",
+               "doc": "https://bslthemes.gitbook.io/oblo-wp-doc/",
+               "changelog": "https://bslthemes.com/product/oblo-portfolio-agency-wordpress-theme/#item-description__changelog"
+             },
+             "demo": {
+               "default-dark": {
+                 "url": "https://oblo.bslthemes.com/",
+                 "title": "Default Dark",
+                 "preview": "https://bslthemes.com/oblo/landing/wp-content/uploads/2021/08/demo1.jpg"
+               },
+               "default-light": {
+                 "url": "https://oblo.bslthemes.com/light/",
+                 "title": "Default Light",
+                 "preview": "https://bslthemes.com/oblo/landing/wp-content/uploads/2021/08/demo13.jpg"
+               },
+               "interactive-portfolio": {
+                 "url": "https://oblo.bslthemes.com/minimal/",
+                 "title": "Interactive Portfolio",
+                 "preview": "https://bslthemes.com/oblo/landing/wp-content/uploads/2021/08/demo8.jpg"
+               },
+               "digital-agency": {
+                 "url": "https://oblo.bslthemes.com/agency/",
+                 "title": "Digital Agency",
+                 "preview": "https://bslthemes.com/oblo/landing/wp-content/uploads/2021/08/demo9.jpg"
+               },
+               "creative-photography": {
+                 "url": "https://oblo.bslthemes.com/showcase/",
+                 "title": "Creative Photography",
+                 "preview": "https://bslthemes.com/oblo/landing/wp-content/uploads/2021/08/demo10.jpg"
+               },
+               "minimalist-photography": {
+                 "url": "https://oblo.bslthemes.com/photography/",
+                 "title": "Minimalist Photography",
+                 "preview": "https://bslthemes.com/oblo/landing/wp-content/uploads/2021/08/demo11.jpg"
+               }
+             },
+             "tags": "portfolio,photography,agency,creative"
+          },
+          "mireya": {
+             "title": "Mireya",
+             "preview": "https://bslthemes.com/wp-content/uploads/2022/04/mi_img_preview3.png",
+             "links": {
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/mireya-architecture-portfolio-wordpress-theme/full_screen_preview/31598936",
+               "buy": "https://1.envato.market/e4NGzD",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/mireya-architecture-portfolio-wordpress-theme/31598936/support",
+               "doc": "https://bslthemes.gitbook.io/mireya-wp-doc/",
+               "changelog": "https://bslthemes.com/product/mireya-interior-design-wordpress-theme/#item-description__changelog"
+             },
+             "demo": 0,
+             "tags": "interior,architecture,portfolio"
+          },
+          "quarty": {
+             "title": "Quarty",
+             "preview": "https://bslthemes.com/wp-content/uploads/2022/04/q_img_preview3.png",
+             "links": {
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/quarty-architecture-interior-design-wordpress-theme/full_screen_preview/31043158",
+               "buy": "https://1.envato.market/e4KnqX",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/quarty-architecture-interior-design-wordpress-theme/31043158/support",
+               "doc": "https://bslthemes.gitbook.io/quarty-wp-doc/",
+               "changelog": "https://bslthemes.com/product/quarty-architecture-wordpress-theme/#item-description__changelog"
+             },
+             "demo": {
+               "default-dark": {
+                 "url": "https://quarty.bslthemes.com/",
+                 "title": "Default Dark",
+                 "preview": "https://bslthemes.com/quarty/landing/wp-content/uploads/2021/09/demo1-1.jpg"
+               },
+               "default-light": {
+                 "url": "https://quarty.bslthemes.com/light/",
+                 "title": "Default Light",
+                 "preview": "https://bslthemes.com/quarty/landing/wp-content/uploads/2021/09/demo2-1.jpg"
+               }
+             },
+             "tags": "interior,architecture,construction,business"
+          },
+          "arter": {
+             "title": "Arter",
+             "preview": "https://bslthemes.com/wp-content/uploads/2022/04/arr_img_preview3.png",
+             "links": {
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/arter-cv-resume-wordpress-theme/full_screen_preview/28719764",
+               "buy": "https://1.envato.market/6a933",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/arter-cv-resume-wordpress-theme/28719764/support",
+               "doc": "https://bslthemes.gitbook.io/arter-wp-doc/",
+               "changelog": "https://bslthemes.com/product/arter-cv-resume-wordpress-theme/#item-description__changelog"
+             },
+             "demo": 0,
+             "tags": "resume,cv,personal"
+          },
+          "myour": {
+             "title": "Myour",
+             "preview": "https://bslthemes.com/wp-content/uploads/2022/04/my_img_preview3.png",
+             "links": {
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/myour-one-page-resume-wordpress-theme/full_screen_preview/27319073",
+               "buy": "https://1.envato.market/5VKBN",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/myour-one-page-resume-wordpress-theme/27319073/support",
+               "doc": "https://bslthemes.gitbook.io/myour-wp-doc/",
+               "changelog": "https://bslthemes.com/product/myour-cv-resume-wordpress-theme/#item-description__changelog"
+             },
+             "demo": {
+               "default-dark": {
+                 "url": "https://myour.bslthemes.com/",
+                 "title": "Default Dark",
+                 "preview": "https://bslthemes.com/myour/intro/assets/demo/dark-image.jpg"
+               },
+               "default-light": {
+                 "url": "https://myour.bslthemes.com/light/",
+                 "title": "Default Light",
+                 "preview": "https://bslthemes.com/myour/intro/assets/demo/light-image.jpg"
+               }
+             },
+             "tags": "resume,cv,personal,onepage"
+          },
+          "cvio": {
+             "title": "Cvio",
+             "preview": "https://bslthemes.com/wp-content/uploads/2022/04/cvio_img_preview3.png",
+             "links": {
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/cvio-cv-resume-wordpress-theme/full_screen_preview/25607381",
+               "buy": "https://1.envato.market/264zM",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/cvio-cv-resume-wordpress-theme/25607381/support",
+               "doc": "https://bslthemes.gitbook.io/cvio-wp-doc/",
+               "changelog": "https://bslthemes.com/product/cvio-cv-resume-wordpress-theme/#item-description__changelog"
+             },
+             "demo": 0,
+             "tags": "resume,cv,personal,onepage"
+          },
+          "glitche": {
+             "title": "Glitche",
+             "preview": "https://bslthemes.com/wp-content/uploads/2022/04/g_img_preview3.png",
+             "links": {
+               "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/glitche-vcard-resume-wordpress-theme/full_screen_preview/22509848",
+               "buy": "https://1.envato.market/Ba1m0",
+               "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/glitche-vcard-resume-wordpress-theme/22509848/support",
+               "doc": "https://bslthemes.gitbook.io/glitche-wp-doc/",
+               "changelog": "https://bslthemes.com/product/glitche-cv-resume-wordpress-theme/#item-description__changelog"
+             },
+             "demo": 0,
+             "tags": "resume,cv,personal,onepage"
+          }
+       },
+       "html": {
+         "onovo": {
+           "title": "Onovo",
+           "preview": "https://bslthemes.com/wp-content/uploads/2023/07/ThemePreview.__large_preview.png",
+           "links":{
+             "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/onovo-creative-portfolio-agency-html-template/46693143",
+             "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F46693143%3Flicense%3Dregular",
+             "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/onovo-creative-portfolio-agency-html-template/46693143/support",
+             "changelog": "https://bslthemes.com/product/onovo-creative-portfolio-agency-html-template/#item-description__changelog"
+           },
+           "demo": 0,
+           "tags": "creative,portfolio,business,digital,agency"
+         },
+         "itsulu": {
+            "title": "ITSulu",
+            "preview": "https://bslthemes.com/wp-content/uploads/2023/05/itsulu_preview.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/itsulu-it-solutions-services-html5-template/45436886",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F45436886%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/itsulu-it-solutions-services-html5-template/45436886/support",
+              "changelog": "https://bslthemes.com/product/itsulu-it-solutions-services-html5-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "technology,it,business,digital,agency"
+         },
+         "terio": {
+            "title": "Terio",
+            "preview": "https://bslthemes.com/wp-content/uploads/2023/01/preview-4.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/terio-it-solutions-services-template/full_screen_preview/43021251",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F43021251%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/terio-it-solutions-services-template/43021251/support",
+              "changelog": "https://bslthemes.com/product/terio-digital-agency-it-solutions-html-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "creative,portfolio,business,digital,agency"
+         },
+         "luique": {
+            "title": "Luique",
+            "preview": "https://bslthemes.com/wp-content/uploads/2023/01/preview-1.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/luique-personal-portfolio-template/full_screen_preview/42486765",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F42486765%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/luique-personal-portfolio-template/42486765/support",
+              "changelog": "https://bslthemes.com/product/luique-personal-portfolio-html5-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,onepage"
+         },
+         "quickeat": {
+            "title": "Quickeat",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/10/preview.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/quickeat-restaurant-food-delivery-template/full_screen_preview/40288794",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F40288794%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/quickeat-restaurant-food-delivery-template/40288794/support",
+              "changelog": "https://bslthemes.com/product/quickeat-html-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "food,delivery,restaurant,cafe"
+         },
+         "samantha": {
+            "title": "Samantha",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/09/preview.jpg",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/samantha-fitness-html-template/full_screen_preview/39662036",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F39662036%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/samantha-fitness-html-template/39662036/support",
+              "changelog": "https://bslthemes.com/product/samantha-personal-trainer-fitness-gym-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "trainer,fitness,gym,health"
+         },
+         "kaffen": {
+            "title": "Kaffen",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/05/preview-1.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/kaffen-restaurant-html-template/full_screen_preview/37237769",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F37237769%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/kaffen-restaurant-html-template/37237769/support",
+              "changelog": "https://bslthemes.com/product/kaffen-restaurant-html-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "restaurant,cafe"
+         },
+         "ober": {
+            "title": "Ober",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/04/preview-2.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ober-one-page-resume-html-template/full_screen_preview/36041669",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F36041669%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ober-one-page-resume-html-template/36041669/support",
+              "changelog": "https://bslthemes.com/product/ober-cv-resume-html-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,onepage"
+         },
+         "aster": {
+            "title": "Aster",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/04/preview-1.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/aster-portfolio-agency-html-template/full_screen_preview/35434571",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F35434571%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/aster-portfolio-agency-html-template/35434571/support",
+              "changelog": "https://bslthemes.com/product/aster-portfolio-agency-html-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "creative,portfolio,photography,digital,agency"
+         },
+         "oblo": {
+            "title": "Oblo",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/04/themepreview.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/oblo-creative-agency-portfolio-html-template/full_screen_preview/30553385",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F30553385%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/oblo-creative-agency-portfolio-html-template/30553385/support",
+              "changelog": "https://bslthemes.com/product/oblo-photography-portfolio-html-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "creative,portfolio,photography,digital,agency"
+         },
+         "myour": {
+            "title": "Myour",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/04/big_preview-3.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/myour-personal-portfolio-template/full_screen_preview/25744677",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F25744677%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/myour-personal-portfolio-template/25744677/support",
+              "changelog": "https://bslthemes.com/product/myour-cv-resume-html-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,onepage"
+         },
+         "ryancv": {
+            "title": "RyanCV",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/04/large_preview-3.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ryan-vcard-resume-cv-template/full_screen_preview/21584603",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F21584603%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ryan-vcard-resume-cv-template/21584603/support",
+              "changelog": "https://bslthemes.com/product/ryancv-cv-resume-html-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,vcard"
+         },
+         "glitche": {
+            "title": "Glitche",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/04/big_preview-1.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/glitche-responsive-vcard-resume-cv-template/full_screen_preview/17526245",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F17526245%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/glitche-responsive-vcard-resume-cv-template/17526245/support",
+              "changelog": "https://bslthemes.com/product/glitche-cv-resume-html-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,vcard"
+         },
+         "cvio": {
+            "title": "Cvio",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/04/big_preview-2.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/cvio-resumecv-template/full_screen_preview/24695116",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F24695116%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/cvio-resumecv-template/24695116/support",
+              "changelog": "https://bslthemes.com/product/cvio-cv-resume-html-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,onepage"
+         },
+         "patrick": {
+            "title": "Patrick",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/04/patrick_preview.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/patrick-personal-vcard-resume-cv-template/full_screen_preview/22390204",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F22390204%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/patrick-personal-vcard-resume-cv-template/22390204/support",
+              "changelog": "https://bslthemes.com/product/patrick-cv-resume-html-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,onepage"
+         }
+       },
+       "jekyll": {
+         "terio": {
+           "title": "Terio",
+           "preview": "https://bslthemes.com/wp-content/uploads/2023/05/preview-2.png",
+           "links":{
+             "url": "https://1.envato.market/c/1790164/275988/4415?u=https://preview.themeforest.net/item/terio-digital-agency-it-services-jekyll-theme/full_screen_preview/45578337",
+             "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F45578337%3Flicense%3Dregular",
+             "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/terio-digital-agency-it-services-jekyll-theme/45578337/support",
+             "changelog": "https://bslthemes.com/product/terio-digital-agency-it-services-jekyll-theme/#item-description__changelog"
+           },
+           "demo": 0,
+           "tags": "creative,portfolio,business,digital,agency"
+         },
+         "luique": {
+            "title": "Luique",
+            "preview": "https://bslthemes.com/wp-content/uploads/2023/01/preview-2.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://preview.themeforest.net/item/luique-personal-portfolio-jekyll-theme/full_screen_preview/42671172",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F42671172%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/luique-personal-portfolio-jekyll-theme/42671172/support",
+              "changelog": "https://bslthemes.com/product/luique-personal-portfolio-jekyll-theme/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,onepage"
+         },
+         "ober": {
+            "title": "Ober",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/07/preview.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ober-cvresume-personal-portfolio-jekyll-theme/full_screen_preview/38530585",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F38530585%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ober-cvresume-personal-portfolio-jekyll-theme/38530585/support",
+              "changelog": "https://bslthemes.com/product/ober-cv-resume-personal-portfolio-jekyll-theme/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,onepage"
+         },
+         "myour": {
+            "title": "Myour",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/04/preview.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/myour-one-page-resume-cv-jekyll-theme/full_screen_preview/35985283",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F35985283%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/myour-one-page-resume-cv-jekyll-theme/35985283/support",
+              "changelog": "https://bslthemes.com/product/myour-cv-resume-personal-portfolio-jekyll-theme/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,onepage"
+         },
+         "ryancv": {
+            "title": "RyanCV",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/04/large_preview-2.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ryancv-resume-cv-vcard-jekyll-theme/full_screen_preview/28114925",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F28114925%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ryancv-resume-cv-vcard-jekyll-theme/28114925",
+              "changelog": "https://bslthemes.com/product/ryancv-resume-cv-vcard-jekyll-theme/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,vcard"
+         },
+         "glitche": {
+            "title": "Glitche",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/04/large_preview-1.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/glitche-resume-cv-portfolio-jekyll-theme/full_screen_preview/28835894",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F28835894%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/glitche-resume-cv-portfolio-jekyll-theme/28835894/support",
+              "changelog": "https://bslthemes.com/product/glitche-cv-resume-personal-portfolio-jekyll-theme/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,vcard"
+         },
+         "cvio": {
+            "title": "Cvio",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/04/large_preview.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/cvio-cv-resume-personal-portfolio-jekyll-theme/full_screen_preview/34060954",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F34060954%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/cvio-cv-resume-personal-portfolio-jekyll-theme/34060954/support",
+              "changelog": "https://bslthemes.com/product/cvio-cv-resume-personal-portfolio-jekyll-theme/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,onepage,portfolio"
+         }
+       },
+       "hugo": {
+         "terio": {
+           "title": "Terio",
+           "preview": "https://bslthemes.com/wp-content/uploads/2023/05/preview-1.png",
+           "links":{
+             "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/terio-digital-agency-hugo-theme/full_screen_preview/44072396",
+             "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F44072396%3Flicense%3Dregular",
+             "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/terio-digital-agency-hugo-theme/44072396/support",
+             "changelog": "https://bslthemes.com/product/terio-digital-agency-hugo-theme/#item-description__changelog"
+           },
+           "demo": 0,
+           "tags": "creative,portfolio,business,digital,agency"
+         },
+         "luique": {
+           "title": "Luique",
+           "preview": "https://bslthemes.com/wp-content/uploads/2023/02/preview.png",
+           "links":{
+             "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/luique-personal-portfolio-hugo-theme/full_screen_preview/43679012",
+             "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F43679012%3Flicense%3Dregular",
+             "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/luique-personal-portfolio-hugo-theme/43679012/support",
+             "changelog": "https://bslthemes.com/product/luique-personal-portfolio-hugo-theme/#item-description__changelog"
+           },
+           "demo": 0,
+           "tags": "resume,cv,personal,onepage"
+        },
+         "ryancv": {
+            "title": "RyanCV",
+            "preview": "https://bslthemes.com/wp-content/uploads/2023/01/preview.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ryan-cv-resume-personal-portfolio-hugo-theme/full_screen_preview/42466927",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F42466927%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ryan-cv-resume-personal-portfolio-hugo-theme/42466927/support",
+              "changelog": "https://bslthemes.com/product/ryancv-cv-resume-hugo-theme/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,vcard"
+         },
+         "ober": {
+            "title": "Ober",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/07/preview-1.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ober-cvresume-personal-portfolio-hugo-theme/full_screen_preview/38693187",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F38693187%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ober-cvresume-personal-portfolio-hugo-theme/38693187/support",
+              "changelog": "https://bslthemes.com/product/ober-cv-resume-personal-portfolio-hugo-theme/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,onepage"
+         },
+         "myour": {
+            "title": "Myour",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/09/preview.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/myour-one-page-resume-cv-hugo-theme/full_screen_preview/39638853",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F39638853%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/myour-one-page-resume-cv-hugo-theme/39638853/support",
+              "changelog": "https://bslthemes.com/product/myour-cv-resume-personal-portfolio-hugo-theme/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,onepage"
+         },
+         "aster": {
+            "title": "Aster",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/08/theme_preview.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/aster-creative-agency-portfolio-hugo-theme/full_screen_preview/39237517",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F39237517%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/aster-creative-agency-portfolio-hugo-theme/39237517/support",
+              "changelog": "https://bslthemes.com/product/aster-creative-agency-portfolio-hugo-theme/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "portfolio,photography,agency,creative,personal"
+         }
+       },
+       "react": {
+         "lettery": {
+           "title": "Lettery",
+           "preview": "https://bslthemes.com/wp-content/uploads/2023/06/l_large_preview.png",
+           "links":{
+             "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/lettery-seo-digital-marketing-agency-react-nextjs-template/full_screen_preview/46221387",
+             "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F46221387%3Flicense%3Dregular",
+             "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/lettery-seo-digital-marketing-agency-react-nextjs-template/46221387/support",
+             "changelog": "https://bslthemes.com/product/lettery-seo-digital-marketing-agency-react-nextjs-template/#item-description__changelog"
+           },
+           "demo": 0,
+           "tags": "business,it,digital,seo,marketing,agency"
+         },
+         "kaffen": {
+           "title": "Kaffen",
+           "preview": "https://bslthemes.com/wp-content/uploads/2023/06/preview-1.png",
+           "links":{
+             "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/kaffen-restaurant-cafe-react-template/full_screen_preview/46030500",
+             "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F46030500%3Flicense%3Dregular",
+             "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/kaffen-restaurant-cafe-react-template/46030500/support",
+             "changelog": "https://bslthemes.com/product/kaffen-restaurant-cafe-react-template/#item-description__changelog"
+           },
+           "demo": 0,
+           "tags": "restaurant,cafe"
+         },
+         "itsulu": {
+           "title": "ITSulu",
+           "preview": "https://bslthemes.com/wp-content/uploads/2023/06/preview.png",
+           "links":{
+             "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/itsulu-technology-it-solutions-react-template/full_screen_preview/45961777",
+             "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F45961777%3Flicense%3Dregular",
+             "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/itsulu-technology-it-solutions-react-template/45961777/support",
+             "changelog": "https://bslthemes.com/product/itsulu-technology-it-solutions-react-template/#item-description__changelog"
+           },
+           "demo": 0,
+           "tags": "technology,it,business,digital,agency"
+         },
+         "terio": {
+            "title": "Terio",
+            "preview": "https://bslthemes.com/wp-content/uploads/2023/05/preview.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/terio-digital-agency-react-nextjs-template/full_screen_preview/43884610",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F43884610%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/terio-digital-agency-react-nextjs-template/43884610/support",
+              "changelog": "https://bslthemes.com/product/terio-digital-agency-react-nextjs-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "creative,portfolio,business,digital,agency"
+         },
+         "luique": {
+           "title": "Luique",
+           "preview": "https://bslthemes.com/wp-content/uploads/2023/05/luique_r_preview.png",
+           "links":{
+             "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/luique-personal-portfolio-react-template/full_screen_preview/42872128",
+             "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F42872128%3Flicense%3Dregular",
+             "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/luique-personal-portfolio-react-template/42872128/support",
+             "changelog": "https://bslthemes.com/product/luique-personal-portfolio-react-template/#item-description__changelog"
+           },
+           "demo": 0,
+           "tags": "resume,cv,personal,onepage"
+         },
+         "ryancv": {
+            "title": "RyanCV",
+            "preview": "https://bslthemes.com/wp-content/uploads/2022/10/big_preview-2.png",
+            "links":{
+              "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ryancv-cv-resume-react-template/full_screen_preview/39383681",
+              "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F39383681%3Flicense%3Dregular",
+              "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ryancv-cv-resume-react-template/39383681/support",
+              "changelog": "https://bslthemes.com/product/ryancv-react-template/#item-description__changelog"
+            },
+            "demo": 0,
+            "tags": "resume,cv,personal,vcard"
+         },
+         "aster": {
+           "title": "Aster",
+           "preview": "https://bslthemes.com/wp-content/uploads/2023/01/preview-3.png",
+           "links":{
+             "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/aster-creative-agency-portfolio-react-template/full_screen_preview/42264404",
+             "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F42264404%3Flicense%3Dregular",
+             "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/aster-creative-agency-portfolio-react-template/42264404/support",
+             "changelog": "https://bslthemes.com/product/aster-creative-agency-portfolio-react-template/#item-description__changelog"
+           },
+           "demo": 0,
+           "tags": "portfolio,photography,agency,creative,personal"
+         },
+         "ober": {
+           "title": "Ober",
+           "preview": "https://bslthemes.com/wp-content/uploads/2022/10/preview-1.png",
+           "links":{
+             "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ober-cv-resume-react-template/full_screen_preview/40317292",
+             "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F40317292%3Flicense%3Dregular",
+             "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/ober-cv-resume-react-template/40317292/support",
+             "changelog": "https://bslthemes.com/product/ober-react-template/#item-description__changelog"
+           },
+           "demo": 0,
+           "tags": "resume,cv,personal,onepage"
+         },
+         "myour": {
+           "title": "Myour",
+           "preview": "https://bslthemes.com/wp-content/uploads/2023/01/big_preview.png",
+           "links":{
+             "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/myour-cvresume-react-nextjs-template/full_screen_preview/43194395",
+             "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F43194395%3Flicense%3Dregular",
+             "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/myour-cvresume-react-nextjs-template/43194395/support",
+             "changelog": "https://bslthemes.com/product/myour-cv-resume-react-template/#item-description__changelog"
+           },
+           "demo": 0,
+           "tags": "resume,cv,personal,onepage"
+         },
+         "cvio": {
+           "title": "Cvio",
+           "preview": "https://bslthemes.com/wp-content/uploads/2022/10/big_preview.png",
+           "links":{
+             "url": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/cvio-personal-portfolio-react-template/full_screen_preview/40041961",
+             "buy": "https://1.envato.market/c/1790164/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F40041961%3Flicense%3Dregular",
+             "support": "https://1.envato.market/c/1790164/275988/4415?u=https://themeforest.net/item/cvio-personal-portfolio-react-template/40041961/support",
+             "changelog": "https://bslthemes.com/product/cvio-react-template/#item-description__changelog"
+           },
+           "demo": 0,
+           "tags": "resume,cv,personal,onepage,portfolio"
+        }
+       }
+    },
+    "author":{
+       "name":"bslthemes",
+       "website":"https://bslthemes.com"
+    }
+ }
